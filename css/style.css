@@ -1,0 +1,43 @@
+body {
+    font-size: 1em;
+}
+
+#title {
+    text-align: center;
+}
+
+#img-div {
+    width: 80%;
+    margin: auto;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#headline {
+    text-align: center;
+}
+
+#tribute-info {
+    width: 40%;
+    margin: auto;
+    text-align: justify;
+}
+
+span {
+    font-weight: bold;
+}
+
+li {
+    margin-top: 20px;
+}
+
+#quote {
+    font-style: italic;
+}
